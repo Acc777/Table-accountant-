@@ -1,0 +1,144 @@
+
+<form action="" method="post">
+          <input type="text" value="Январь">
+        </br>
+        <table class="cwdtable" width="100%" cellspacing="0" cellpadding="1" border="1">
+<thead>
+	<tr>
+		<th>ЂЂЂ</th
+		<th>ФИО</th>
+		<th>Должность</th>
+		<th>Ставка</th>
+		<th>Начисленная зарплата</th>
+		<th>Налог 13%</th>
+		<th>Налог 1%</th>
+		<th>Удержано</th>
+		<th>К выдаче</th>
+		<th>Кол-во отработанных дней</th>
+	</tr>
+</thead>
+<tbody>
+	<tr>
+		<td>1</td>
+		<td><input type="text" size="10"  maxlength="50" onkeydown="size=value.length||10" onkeyup="onkeydown()" onkeypress="onkeydown()" onchange="onkeydown()" name ="FIO" value="Марк Марков"/></td>
+		<td><input type="text" size="10"  maxlength="50" onkeydown="size=value.length||10" onkeyup="onkeydown()" onkeypress="onkeydown()" onchange="onkeydown()" name ="dolzhnost" value="Заведующий"/></td>
+		<td><input type="text" size="10"  maxlength="50" onkeydown="size=value.length||10" onkeyup="onkeydown()" onkeypress="onkeydown()" onchange="onkeydown()" name ="stavka" value="1,0"/></td>
+		<td><input type="text" size="10"  maxlength="50" onkeydown="size=value.length||10" onkeyup="onkeydown()" onkeypress="onkeydown()" onchange="onkeydown()" name ="nachislenie" value="10000"/></td>
+		<td><input type="text" size="10"  maxlength="50" onkeydown="size=value.length||10" onkeyup="onkeydown()" onkeypress="onkeydown()" onchange="onkeydown()" name ="nalog_13%" value="1000"/></td>
+		<td><input type="text" size="10"  maxlength="50" onkeydown="size=value.length||10" onkeyup="onkeydown()" onkeypress="onkeydown()" onchange="onkeydown()" name ="nalog_1%" value="500"/></td>
+		<td><input type="text" size="10"  maxlength="50" onkeydown="size=value.length||10" onkeyup="onkeydown()" onkeypress="onkeydown()" onchange="onkeydown()" name ="yderzhano" value="2000"/></td>
+		<td><input type="text" size="10"  maxlength="50" onkeydown="size=value.length||10" onkeyup="onkeydown()" onkeypress="onkeydown()" onchange="onkeydown()" name ="k vydache" value="7000"/></td>
+		<td><input type="text" size="10"  maxlength="50" onkeydown="size=value.length||10" onkeyup="onkeydown()" onkeypress="onkeydown()" onchange="onkeydown()" name ="kol-vo otrab_day" value="23"/></td>
+	</tr>
+	<tr>
+    <td>2</td>
+    <td><input type="text" size="10"  maxlength="50" onkeydown="size=value.length||10" onkeyup="onkeydown()" onkeypress="onkeydown()" onchange="onkeydown()" name ="FIO" value="Карл"/></td>
+		<td><input type="text" size="10"  maxlength="50" onkeydown="size=value.length||10" onkeyup="onkeydown()" onkeypress="onkeydown()" onchange="onkeydown()" name ="dolzhnost" value="Заместитель"/></td>
+		<td><input type="text" size="10"  maxlength="50" onkeydown="size=value.length||10" onkeyup="onkeydown()" onkeypress="onkeydown()" onchange="onkeydown()" name ="stavka" value="1,0"/></td>
+		<td><input type="text" size="10"  maxlength="50" onkeydown="size=value.length||10" onkeyup="onkeydown()" onkeypress="onkeydown()" onchange="onkeydown()" name ="nachislenie" value="9000"/></td>
+		<td><input type="text" size="10"  maxlength="50" onkeydown="size=value.length||10" onkeyup="onkeydown()" onkeypress="onkeydown()" onchange="onkeydown()" name ="nalog_13%" value="1000"/></td>
+		<td><input type="text" size="10"  maxlength="50" onkeydown="size=value.length||10" onkeyup="onkeydown()" onkeypress="onkeydown()" onchange="onkeydown()" name ="nalog_1%" value="500"/></td>
+		<td><input type="text" size="10"  maxlength="50" onkeydown="size=value.length||10" onkeyup="onkeydown()" onkeypress="onkeydown()" onchange="onkeydown()" name ="yderzhano" value="2000"/></td>
+		<td><input type="text" size="10"  maxlength="50" onkeydown="size=value.length||10" onkeyup="onkeydown()" onkeypress="onkeydown()" onchange="onkeydown()" name ="k vydache" value="7000"/></td>
+		<td><input type="text" size="10"  maxlength="50" onkeydown="size=value.length||10" onkeyup="onkeydown()" onkeypress="onkeydown()" onchange="onkeydown()" name ="kol-vo otrab_day" value="23"/></td>
+	</tr>
+	<tr>
+    <td>3</td>
+    <td><input type="text" size="10"  maxlength="50" onkeydown="size=value.length||10" onkeyup="onkeydown()" onkeypress="onkeydown()" onchange="onkeydown()" name ="FIO" value="Сотрудник 3"/></td>
+		<td><input type="text" size="10"  maxlength="50" onkeydown="size=value.length||10" onkeyup="onkeydown()" onkeypress="onkeydown()" onchange="onkeydown()" name ="dolzhnost" value="Повар"/></td>
+		<td><input type="text" size="10"  maxlength="50" onkeydown="size=value.length||10" onkeyup="onkeydown()" onkeypress="onkeydown()" onchange="onkeydown()" name ="stavka" value="1,0"/></td>
+		<td><input type="text" size="10"  maxlength="50" onkeydown="size=value.length||10" onkeyup="onkeydown()" onkeypress="onkeydown()" onchange="onkeydown()" name ="nachislenie" value="9000"/></td>
+		<td><input type="text" size="10"  maxlength="50" onkeydown="size=value.length||10" onkeyup="onkeydown()" onkeypress="onkeydown()" onchange="onkeydown()" name ="nalog_13%" value="1000"/></td>
+		<td><input type="text" size="10"  maxlength="50" onkeydown="size=value.length||10" onkeyup="onkeydown()" onkeypress="onkeydown()" onchange="onkeydown()" name ="nalog_1%" value="500"/></td>
+		<td><input type="text" size="10"  maxlength="50" onkeydown="size=value.length||10" onkeyup="onkeydown()" onkeypress="onkeydown()" onchange="onkeydown()" name ="yderzhano" value="2000"/></td>
+		<td><input type="text" size="10"  maxlength="50" onkeydown="size=value.length||10" onkeyup="onkeydown()" onkeypress="onkeydown()" onchange="onkeydown()" name ="k vydache" value="7000"/></td>
+		<td><input type="text" size="10"  maxlength="50" onkeydown="size=value.length||10" onkeyup="onkeydown()" onkeypress="onkeydown()" onchange="onkeydown()" name ="kol-vo otrab_day" value="23"/></td>
+	</tr>
+	<tr>
+    	<td>4</td>
+    <td><input type="text" size="10"  maxlength="50" onkeydown="size=value.length||10" onkeyup="onkeydown()" onkeypress="onkeydown()" onchange="onkeydown()" name ="FIO" value="Сотрудник 4"/></td>
+    <td><input type="text" size="10"  maxlength="50" onkeydown="size=value.length||10" onkeyup="onkeydown()" onkeypress="onkeydown()" onchange="onkeydown()" name ="dolzhnost" value="Бухгалтер"/></td>
+    <td><input type="text" size="10"  maxlength="50" onkeydown="size=value.length||10" onkeyup="onkeydown()" onkeypress="onkeydown()" onchange="onkeydown()" name ="stavka" value="1,0"/></td>
+    <td><input type="text" size="10"  maxlength="50" onkeydown="size=value.length||10" onkeyup="onkeydown()" onkeypress="onkeydown()" onchange="onkeydown()" name ="nachislenie" value="9000"/></td>
+    <td><input type="text" size="10"  maxlength="50" onkeydown="size=value.length||10" onkeyup="onkeydown()" onkeypress="onkeydown()" onchange="onkeydown()" name ="nalog_13%" value="1000"/></td>
+    <td><input type="text" size="10"  maxlength="50" onkeydown="size=value.length||10" onkeyup="onkeydown()" onkeypress="onkeydown()" onchange="onkeydown()" name ="nalog_1%" value="500"/></td>
+    <td><input type="text" size="10"  maxlength="50" onkeydown="size=value.length||10" onkeyup="onkeydown()" onkeypress="onkeydown()" onchange="onkeydown()" name ="yderzhano" value="2000"/></td>
+    <td><input type="text" size="10"  maxlength="50" onkeydown="size=value.length||10" onkeyup="onkeydown()" onkeypress="onkeydown()" onchange="onkeydown()" name ="k vydache" value="7000"/></td>
+    <td><input type="text" size="10"  maxlength="50" onkeydown="size=value.length||10" onkeyup="onkeydown()" onkeypress="onkeydown()" onchange="onkeydown()" name ="kol-vo otrab_day" value="23"/></td>
+	</tr>
+	<tr>
+		<td>5</td>
+    <td><input type="text" size="10"  maxlength="50" onkeydown="size=value.length||10" onkeyup="onkeydown()" onkeypress="onkeydown()" onchange="onkeydown()" name ="FIO" value="Сотрудник 5"/></td>
+		<td><input type="text" size="10"  maxlength="50" onkeydown="size=value.length||10" onkeyup="onkeydown()" onkeypress="onkeydown()" onchange="onkeydown()" name ="dolzhnost" value="Сторож"/></td>
+		<td><input type="text" size="10"  maxlength="50" onkeydown="size=value.length||10" onkeyup="onkeydown()" onkeypress="onkeydown()" onchange="onkeydown()" name ="stavka" value="1,0"/></td>
+		<td><input type="text" size="10"  maxlength="50" onkeydown="size=value.length||10" onkeyup="onkeydown()" onkeypress="onkeydown()" onchange="onkeydown()" name ="nachislenie" value="9000"/></td>
+		<td><input type="text" size="10"  maxlength="50" onkeydown="size=value.length||10" onkeyup="onkeydown()" onkeypress="onkeydown()" onchange="onkeydown()" name ="nalog_13%" value="1000"/></td>
+		<td><input type="text" size="10"  maxlength="50" onkeydown="size=value.length||10" onkeyup="onkeydown()" onkeypress="onkeydown()" onchange="onkeydown()" name ="nalog_1%" value="500"/></td>
+		<td><input type="text" size="10"  maxlength="50" onkeydown="size=value.length||10" onkeyup="onkeydown()" onkeypress="onkeydown()" onchange="onkeydown()" name ="yderzhano" value="2000"/></td>
+		<td><input type="text" size="10"  maxlength="50" onkeydown="size=value.length||10" onkeyup="onkeydown()" onkeypress="onkeydown()" onchange="onkeydown()" name ="k vydache" value="7000"/></td>
+		<td><input type="text" size="10"  maxlength="50" onkeydown="size=value.length||10" onkeyup="onkeydown()" onkeypress="onkeydown()" onchange="onkeydown()" name ="kol-vo otrab_day" value="23"/></td>
+	</tr>
+	<tr>
+		<td>6</td>
+    <td><input type="text" size="10"  maxlength="50" onkeydown="size=value.length||10" onkeyup="onkeydown()" onkeypress="onkeydown()" onchange="onkeydown()" name ="FIO" value="Сотрудник 6"/></td>
+		<td><input type="text" size="10"  maxlength="50" onkeydown="size=value.length||10" onkeyup="onkeydown()" onkeypress="onkeydown()" onchange="onkeydown()" name ="dolzhnost" value="Дворник"/></td>
+		<td><input type="text" size="10"  maxlength="50" onkeydown="size=value.length||10" onkeyup="onkeydown()" onkeypress="onkeydown()" onchange="onkeydown()" name ="stavka" value="1,0"/></td>
+		<td><input type="text" size="10"  maxlength="50" onkeydown="size=value.length||10" onkeyup="onkeydown()" onkeypress="onkeydown()" onchange="onkeydown()" name ="nachislenie" value="9000"/></td>
+		<td><input type="text" size="10"  maxlength="50" onkeydown="size=value.length||10" onkeyup="onkeydown()" onkeypress="onkeydown()" onchange="onkeydown()" name ="nalog_13%" value="1000"/></td>
+		<td><input type="text" size="10"  maxlength="50" onkeydown="size=value.length||10" onkeyup="onkeydown()" onkeypress="onkeydown()" onchange="onkeydown()" name ="nalog_1%" value="500"/></td>
+		<td><input type="text" size="10"  maxlength="50" onkeydown="size=value.length||10" onkeyup="onkeydown()" onkeypress="onkeydown()" onchange="onkeydown()" name ="yderzhano" value="2000"/></td>
+		<td><input type="text" size="10"  maxlength="50" onkeydown="size=value.length||10" onkeyup="onkeydown()" onkeypress="onkeydown()" onchange="onkeydown()" name ="k vydache" value="7000"/></td>
+		<td><input type="text" size="10"  maxlength="50" onkeydown="size=value.length||10" onkeyup="onkeydown()" onkeypress="onkeydown()" onchange="onkeydown()" name ="kol-vo otrab_day" value="23"/></td>
+	</tr>
+	<tr>
+		<td>7</td>
+    <td><input type="text" size="10"  maxlength="50" onkeydown="size=value.length||10" onkeyup="onkeydown()" onkeypress="onkeydown()" onchange="onkeydown()" name ="FIO" value="Том"/></td>
+		<td><input type="text" size="10"  maxlength="50" onkeydown="size=value.length||10" onkeyup="onkeydown()" onkeypress="onkeydown()" onchange="onkeydown()" name ="dolzhnost" value="Менеджер"/></td>
+		<td><input type="text" size="10"  maxlength="50" onkeydown="size=value.length||10" onkeyup="onkeydown()" onkeypress="onkeydown()" onchange="onkeydown()" name ="stavka" value="1,0"/></td>
+		<td><input type="text" size="10"  maxlength="50" onkeydown="size=value.length||10" onkeyup="onkeydown()" onkeypress="onkeydown()" onchange="onkeydown()" name ="nachislenie" value="9000"/></td>
+		<td><input type="text" size="10"  maxlength="50" onkeydown="size=value.length||10" onkeyup="onkeydown()" onkeypress="onkeydown()" onchange="onkeydown()" name ="nalog_13%" value="1000"/></td>
+		<td><input type="text" size="10"  maxlength="50" onkeydown="size=value.length||10" onkeyup="onkeydown()" onkeypress="onkeydown()" onchange="onkeydown()" name ="nalog_1%" value="500"/></td>
+		<td><input type="text" size="10"  maxlength="50" onkeydown="size=value.length||10" onkeyup="onkeydown()" onkeypress="onkeydown()" onchange="onkeydown()" name ="yderzhano" value="2000"/></td>
+		<td><input type="text" size="10"  maxlength="50" onkeydown="size=value.length||10" onkeyup="onkeydown()" onkeypress="onkeydown()" onchange="onkeydown()" name ="k vydache" value="7000"/></td>
+		<td><input type="text" size="10"  maxlength="50" onkeydown="size=value.length||10" onkeyup="onkeydown()" onkeypress="onkeydown()" onchange="onkeydown()" name ="kol-vo otrab_day" value="23"/></td>
+	</tr>
+	<tr>
+		<td>8</td>
+    <td><input type="text" size="10"  maxlength="50" onkeydown="size=value.length||10" onkeyup="onkeydown()" onkeypress="onkeydown()" onchange="onkeydown()" name ="FIO" value="Энтони"/></td>
+    <td><input type="text" size="10"  maxlength="50" onkeydown="size=value.length||10" onkeyup="onkeydown()" onkeypress="onkeydown()" onchange="onkeydown()" name ="dolzhnost" value="Ассистент"/></td>
+    <td><input type="text" size="10"  maxlength="50" onkeydown="size=value.length||10" onkeyup="onkeydown()" onkeypress="onkeydown()" onchange="onkeydown()" name ="stavka" value="1,0"/></td>
+    <td><input type="text" size="10"  maxlength="50" onkeydown="size=value.length||10" onkeyup="onkeydown()" onkeypress="onkeydown()" onchange="onkeydown()" name ="nachislenie" value="9000"/></td>
+    <td><input type="text" size="10"  maxlength="50" onkeydown="size=value.length||10" onkeyup="onkeydown()" onkeypress="onkeydown()" onchange="onkeydown()" name ="nalog_13%" value="1000"/></td>
+    <td><input type="text" size="10"  maxlength="50" onkeydown="size=value.length||10" onkeyup="onkeydown()" onkeypress="onkeydown()" onchange="onkeydown()" name ="nalog_1%" value="500"/></td>
+    <td><input type="text" size="10"  maxlength="50" onkeydown="size=value.length||10" onkeyup="onkeydown()" onkeypress="onkeydown()" onchange="onkeydown()" name ="yderzhano" value="2000"/></td>
+    <td><input type="text" size="10"  maxlength="50" onkeydown="size=value.length||10" onkeyup="onkeydown()" onkeypress="onkeydown()" onchange="onkeydown()" name ="k vydache" value="7000"/></td>
+    <td><input type="text" size="10"  maxlength="50" onkeydown="size=value.length||10" onkeyup="onkeydown()" onkeypress="onkeydown()" onchange="onkeydown()" name ="kol-vo otrab_day" value="23"/></td>
+	</tr>
+	<tr>
+		<td>9</td>
+    <td><input type="text" size="10"  maxlength="50" onkeydown="size=value.length||10" onkeyup="onkeydown()" onkeypress="onkeydown()" onchange="onkeydown()" name ="FIO" value="Сотрудник 9"/></td>
+		<td><input type="text" size="10"  maxlength="50" onkeydown="size=value.length||10" onkeyup="onkeydown()" onkeypress="onkeydown()" onchange="onkeydown()" name ="dolzhnost" value="Программист"/></td>
+		<td><input type="text" size="10"  maxlength="50" onkeydown="size=value.length||10" onkeyup="onkeydown()" onkeypress="onkeydown()" onchange="onkeydown()" name ="stavka" value="1,0"/></td>
+		<td><input type="text" size="10"  maxlength="50" onkeydown="size=value.length||10" onkeyup="onkeydown()" onkeypress="onkeydown()" onchange="onkeydown()" name ="nachislenie" value="9000"/></td>
+		<td><input type="text" size="10"  maxlength="50" onkeydown="size=value.length||10" onkeyup="onkeydown()" onkeypress="onkeydown()" onchange="onkeydown()" name ="nalog_13%" value="1000"/></td>
+		<td><input type="text" size="10"  maxlength="50" onkeydown="size=value.length||10" onkeyup="onkeydown()" onkeypress="onkeydown()" onchange="onkeydown()" name ="nalog_1%" value="500"/></td>
+		<td><input type="text" size="10"  maxlength="50" onkeydown="size=value.length||10" onkeyup="onkeydown()" onkeypress="onkeydown()" onchange="onkeydown()" name ="yderzhano" value="2000"/></td>
+		<td><input type="text" size="10"  maxlength="50" onkeydown="size=value.length||10" onkeyup="onkeydown()" onkeypress="onkeydown()" onchange="onkeydown()" name ="k vydache" value="7000"/></td>
+		<td><input type="text" size="10"  maxlength="50" onkeydown="size=value.length||10" onkeyup="onkeydown()" onkeypress="onkeydown()" onchange="onkeydown()" name ="kol-vo otrab_day" value="23"/></td>
+	</tr>
+	<tr>
+		<td>10</td>
+    <td><input type="text" size="10"  maxlength="50" onkeydown="size=value.length||10" onkeyup="onkeydown()" onkeypress="onkeydown()" onchange="onkeydown()" name ="FIO" value="Сотрудник 10"/></td>
+    <td><input type="text" size="10"  maxlength="50" onkeydown="size=value.length||10" onkeyup="onkeydown()" onkeypress="onkeydown()" onchange="onkeydown()" name ="dolzhnost" value="Охранник"/></td>
+    <td><input type="text" size="10"  maxlength="50" onkeydown="size=value.length||10" onkeyup="onkeydown()" onkeypress="onkeydown()" onchange="onkeydown()" name ="stavka" value="1,0"/></td>
+    <td><input type="text" size="10"  maxlength="50" onkeydown="size=value.length||10" onkeyup="onkeydown()" onkeypress="onkeydown()" onchange="onkeydown()" name ="nachislenie" value="9000"/></td>
+    <td><input type="text" size="10"  maxlength="50" onkeydown="size=value.length||10" onkeyup="onkeydown()" onkeypress="onkeydown()" onchange="onkeydown()" name ="nalog_13%" value="1000"/></td>
+    <td><input type="text" size="10"  maxlength="50" onkeydown="size=value.length||10" onkeyup="onkeydown()" onkeypress="onkeydown()" onchange="onkeydown()" name ="nalog_1%" value="500"/></td>
+    <td><input type="text" size="10"  maxlength="50" onkeydown="size=value.length||10" onkeyup="onkeydown()" onkeypress="onkeydown()" onchange="onkeydown()" name ="yderzhano" value="2000"/></td>
+    <td><input type="text" size="10"  maxlength="50" onkeydown="size=value.length||10" onkeyup="onkeydown()" onkeypress="onkeydown()" onchange="onkeydown()" name ="k vydache" value="7000"/></td>
+    <td><input type="text" size="10"  maxlength="50" onkeydown="size=value.length||10" onkeyup="onkeydown()" onkeypress="onkeydown()" onchange="onkeydown()" name ="kol-vo otrab_day" value="23"/></td>
+	</tr>
+</tbody>
+</table>
+</br>
+<input type="submit" value="OK">
